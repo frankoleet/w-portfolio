@@ -13,9 +13,9 @@ const socials = [
 	},
 	{
 		icon: <Github size={20} />,
-		href: "https://github.com/sanfranko",
+		href: "https://github.com/frankoleet",
 		label: "Github",
-		handle: "@sanfranko",
+		handle: "@frankoleet",
 	},
 	{
 		icon: <Send size={20} />,
